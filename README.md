@@ -1,7 +1,7 @@
 # EcoPilot - AI-Driven Waste Management System
 
 <div align="center">
-  <img src="public/EcoPilot-cover.jpg" alt="EcoPilot Logo" width="300"/>
+  <img src="public/eco_pilot_logo.png" alt="EcoPilot Logo" width="200"/>
   <p><em>Automating waste management for a cleaner future</em></p>
 </div>
 
